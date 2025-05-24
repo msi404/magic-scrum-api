@@ -1,4 +1,3 @@
-````markdown
 # 🪄 Magic Scrum – Task Management API
 
 Magic Scrum is a lightweight and modular **NestJS** REST API for managing tasks in a **Scrum workflow**. It’s perfect for small teams, learning purposes, or as a starting point for building a full-featured project management tool.
